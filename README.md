@@ -185,7 +185,7 @@ To share,
 
 The post is published with the selected feeling or activity.
 
-(Optional) You can add captions, emoji, text or tag friends in any of the above posts.
+(Optional) You can add captions, emoji, text or [Tag Friends](#tag-friends) in all the posts.
 
 ## Creating a Post from Mobile App
 
@@ -352,7 +352,7 @@ To share,
 
 The post is published with the selected feeling or activity.
 
-(Optional) You can add captions, emoji, text or tag friends in any of the above posts.
+(Optional) You can add captions, emoji, text or [Tag Friends](#tag-friends) in all the posts.
 
 ## Tag Friends
 
