@@ -218,7 +218,7 @@ A text-only post lets you quickly share thoughts, reminders, or updates.
 
 To create,
 1.  On the Create post screen, type your text in the editor.
-2.  Tap `POST`.
+2.  Tap `Post`.
 
 The text-only post is published and visible on your feed.
 
@@ -241,7 +241,7 @@ To share,
     *   On the Create post screen, tap `AI images`.
     *   On the home page, tap `Gallery` icon.
 2.  Select an image.
-3.  Tap `POST`.
+3.  Tap `Post`.
 
 The image post is published and displayed in your feed.
 
@@ -264,7 +264,7 @@ To share,
         *   `Live video`
     *   On the top of your home screen, tap `Gallery` icon.
 2.  Select or record a video.
-3.  Tap `POST`.
+3.  Tap `Post`.
 
 The video post is published and visible in your feed.
 
@@ -281,7 +281,7 @@ You can share a music track directly in your post.
 To share,
 1.  On the Create post screen, tap `Music`.
 2.  Select a track from the list.
-3.  Tap `POST`.
+3.  Tap `Post`.
 
 The music post is published and displayed in your feed.
 
@@ -297,7 +297,7 @@ You can share your current location or a specific place as part of your post.
 To share,
 1.  On the Create post screen, tap `Check in`.
 2.  Select the location from the list.
-3.  Tap `POST`.
+3.  Tap `Post`.
 
 The location post is published and displayed in your feed with the selected place.
 
@@ -313,7 +313,7 @@ GIF posts allow you to share animated images in the post.
 To share,
 1.  On the Create post screen, tap `GIF`.
 2.  Select a GIF from the list.
-3.  Tap `POST`.
+3.  Tap `Post`.
 
 The GIF post is published and displayed in your feed.
 
@@ -331,7 +331,7 @@ To share,
 1.  On the Create post screen, tap `Life event`.
 2.  Select a category like Life, Education, Relationship, Family, or Travel.
 3.  Enter the required details.
-4.  Tap  `POST`.
+4.  Tap  `Post`.
 
 The life event post is published and highlighted on your profile.
 
@@ -348,7 +348,7 @@ To share,
 1.  On the Create post screen, tap `Feeling/activity`.
 2.  From the list, select a feeling or an activity.
 3.  (Optional) Enter text or attach media to your post.
-4.  Tap `POST`.
+4.  Tap `Post`.
 
 The post is published with the selected feeling or activity.
 
