@@ -1,5 +1,5 @@
 #  How to Create a Post on Facebook
-Quick start guide 
+Quick Start Guide 
 
 - [How to Create a Post on Facebook](#how-to-create-a-post-on-facebook)
   - [Overview](#overview)
@@ -16,7 +16,7 @@ Quick start guide
     - [Create a Text-only Post](#create-a-text-only-post-1)
     - [Share an Image](#share-an-image-1)
     - [Share a Video](#share-a-video-1)
-    - [Share a Music](#share-a-music)
+    - [Share Music](#share-music)
     - [Share a Location](#share-a-location-1)
     - [Share a GIF](#share-a-gif-1)
     - [Share a Life Event](#share-a-life-event-1)
@@ -32,10 +32,10 @@ Facebook allows you to create posts to share updates with your friends, family, 
 This guide helps you perform the following actions:
 * Create a text-only post
 * Share an image or video
-* Share a life events
+* Share a life event
 * Tag friends in a post
 
-**Facebook post creation fow**
+**Facebook post creation flow**
 
 This image shows how the post creation flow works.
 
@@ -115,7 +115,7 @@ To share,
     * On the create post page, select any of the following:
         * `Photo/video`
         * `Live video`
-    * On the top of your home page, select the `Gallery` icon.
+    * On the home page, select the `Gallery` icon.
 2. Select a video file from your device.
 3. Select `Post`.
 
@@ -204,7 +204,7 @@ To create a post,
     *   On the Home screen, tap `Create (+)` and select `Post`.
     *   On your Profile page beneath your profile details, tap `What’s on your mind?` text box.
 
-Create post screen opens.
+`Create post` screen opens.
 
 ### Create a Text-only Post
 
@@ -239,7 +239,7 @@ To share,
         *   `Photo/video`
         *   `Camera`
     *   On the Create post screen, tap `AI images`.
-    *   On the top of your home screen, tap `Gallery` icon.
+    *   On the home page, tap `Gallery` icon.
 2.  Select an image.
 3.  Tap `POST`.
 
@@ -268,7 +268,7 @@ To share,
 
 The video post is published and visible in your feed.
 
-### Share a Music
+### Share Music
 
 You can share a music track directly in your post.
 
